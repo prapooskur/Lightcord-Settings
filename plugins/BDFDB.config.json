@@ -1,6 +1,6 @@
 {
 	"settings": {
-		"showSupportBadges": false,
+		"showSupportBadges": true,
 		"showToasts": true
 	}
 }
