@@ -1,8 +1,0 @@
-{
-	"amounts": {
-		"maxFileSize": 10
-	},
-	"settings": {
-		"onDemand": false
-	}
-}
