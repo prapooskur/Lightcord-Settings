@@ -15,7 +15,7 @@
 	/* See here for a full list of values: https://github.com/AryToNeX/Glasscord#hey-buddy-i-am-a-theme-creator-how-should-i-support-glasscord-in-my-own-themes */
 	
 	/* Windows */
-	--glasscord-win-blur: blurbehind;
+	--glasscord-win-blur: acrylic;
 
 	/* macOS */
 	--glasscord-macos-vibrancy: fullscreen-ui;

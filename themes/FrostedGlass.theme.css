@@ -23,6 +23,7 @@
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
 :root {
+  --glasscord-win-blur: acrylic;
   /* Background image variables */
   --background-image: url(''); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 25px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
